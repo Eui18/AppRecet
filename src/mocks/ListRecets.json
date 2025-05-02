@@ -1,0 +1,256 @@
+[
+    {
+      "nombre": "Tacos al Pastor",
+      "descripcion": "Deliciosos tacos con carne de cerdo marinada y adobada al estilo tradicional. 🌮",
+      "ingredientes": [
+        {"nombre": "Carne de cerdo", "cantidad": "500g"},
+        {"nombre": "Achiote", "cantidad": "2 cucharadas"},
+        {"nombre": "Piña", "cantidad": "1 taza, picada"},
+        {"nombre": "Tortillas de maíz", "cantidad": "8 unidades"},
+        {"nombre": "Cebolla", "cantidad": "1/2, picada"},
+        {"nombre": "Cilantro", "cantidad": "1/4 taza, picado"},
+        {"nombre": "Limón", "cantidad": "1, cortado en cuartos"}
+      ],
+      "preparacion": [
+        "Marinar la carne con el achiote, sal, y jugo de piña durante 2 horas.",
+        "Cocinar la carne en una parrilla o sartén hasta que esté dorada.",
+        "Calentar las tortillas de maíz.",
+        "Colocar la carne en las tortillas y agregar la piña, cebolla, y cilantro.",
+        "Servir con limón al gusto."
+      ],
+      "tiempoPreparacion": "30 minutos",
+      "tiempoCoccion": "15 minutos",
+      "porciones": " 4 personas",
+      "categoria": "Comida Mexicana",
+      "imagen": "https://i.pinimg.com/736x/85/7c/6e/857c6e88db52f89bdf482cb22bcae5ce.jpg"
+    },
+    {
+      "nombre": "Spaghetti Bolognese",
+      "descripcion": "Un clásico italiano con una salsa rica en carne, tomate y hierbas. 🍝",
+      "ingredientes": [
+        {"nombre": "Spaghetti", "cantidad": "300g"},
+        {"nombre": "Carne molida", "cantidad": "500g"},
+        {"nombre": "Cebolla", "cantidad": "1, picada"},
+        {"nombre": "Ajo", "cantidad": "2 dientes, picados"},
+        {"nombre": "Tomate triturado", "cantidad": "400g"},
+        {"nombre": "Aceite de oliva", "cantidad": "2 cucharadas"},
+        {"nombre": "Albahaca", "cantidad": "1 cucharadita, seca"},
+        {"nombre": "Sal", "cantidad": "al gusto"}
+      ],
+      "preparacion": [
+        "Cocinar el spaghetti según las instrucciones del paquete.",
+        "En una sartén, calentar el aceite y freír la cebolla y el ajo.",
+        "Agregar la carne molida y cocinar hasta que se dore.",
+        "Añadir el tomate triturado y las especias.",
+        "Cocinar a fuego lento por 20 minutos.",
+        "Servir el spaghetti con la salsa por encima."
+      ],
+      "tiempoPreparacion": "10 minutos",
+      "tiempoCoccion": "30 minutos",
+      "porciones": "4 personas",
+      "categoria": "Comida Italiana",
+      "imagen": "https://images.ctfassets.net/uexfe9h31g3m/6QtnhruEFi8qgEyYAICkyS/ab01e9b1da656f35dd1a721c810162a0/Spaghetti_bolognese_4x3_V2_LOW_RES.jpg?q=90&w=1200&h=600"
+    },
+    {
+      "nombre": "Ensalada César",
+      "descripcion": "Una fresca ensalada con aderezo cremoso, crujientes croutons y pollo a la parrilla.🥗",
+      "ingredientes": [
+        {"nombre": "Lechuga romana", "cantidad": "4 tazas"},
+        {"nombre": "Pechuga de pollo", "cantidad": "2, a la parrilla"},
+        {"nombre": "Croutons", "cantidad": "1 taza"},
+        {"nombre": "Queso parmesano", "cantidad": "1/4 taza, rallado"},
+        {"nombre": "Aderezo César", "cantidad": "al gusto"}
+      ],
+      "preparacion": [
+        "Cortar la lechuga y colocarla en un bol.",
+        "Agregar el pollo a la parrilla, los croutons y el queso parmesano.",
+        "Verter el aderezo César y mezclar bien."
+      ],
+      "tiempoPreparacion": "10 minutos",
+      "tiempoCoccion": "15 minutos",
+      "porciones": "4 personas",
+      "categoria": "Ensaladas",
+      "imagen": "https://i.pinimg.com/736x/8b/4b/57/8b4b572bf57fb9315fe3d502f68d7500.jpg"
+    },
+    {
+      "nombre": "Pizza Margarita",
+      "descripcion": "Pizza simple con tomate, mozzarella y albahaca fresca.🍕",
+      "ingredientes": [
+        {"nombre": "Masa para pizza", "cantidad": "1, preparada"},
+        {"nombre": "Tomates", "cantidad": "2, en rodajas"},
+        {"nombre": "Queso mozzarella", "cantidad": "200g, en rodajas"},
+        {"nombre": "Albahaca fresca", "cantidad": "al gusto"},
+        {"nombre": "Aceite de oliva", "cantidad": "1 cucharada"}
+      ],
+      "preparacion": [
+        "Precalentar el horno a 220°C.",
+        "Extender la masa en una bandeja para hornear.",
+        "Colocar los tomates y el queso mozzarella sobre la masa.",
+        "Hornear por 10-12 minutos hasta que el queso se derrita.",
+        "Agregar la albahaca fresca y un chorrito de aceite de oliva antes de servir."
+      ],
+      "tiempoPreparacion": "15 minutos",
+      "tiempoCoccion": "12 minutos",
+      "porciones": "2 personas",
+      "categoria": "Comida Italiana",
+      "imagen": "https://i.pinimg.com/736x/fa/25/3b/fa253be89475ffd332589b5a5581ef3d.jpg"
+    },
+    {
+      "nombre": "Sopa de Pollo",
+      "descripcion": "Una sopa reconfortante con trozos de pollo, verduras y fideos.🥣",
+      "ingredientes": [
+        {"nombre": "Pechuga de pollo", "cantidad": "300g, en trozos"},
+        {"nombre": "Zanahoria", "cantidad": "1, en rodajas"},
+        {"nombre": "Apio", "cantidad": "2 ramas, picadas"},
+        {"nombre": "Fideos", "cantidad": "1 taza"},
+        {"nombre": "Caldo de pollo", "cantidad": "4 tazas"},
+        {"nombre": "Sal", "cantidad": "al gusto"}
+      ],
+      "preparacion": [
+        "Cocer el pollo en el caldo durante 15 minutos.",
+        "Añadir las zanahorias, el apio y los fideos.",
+        "Cocinar por otros 10 minutos hasta que las verduras estén tiernas."
+      ],
+      "tiempoPreparacion": "10 minutos",
+      "tiempoCoccion": "25 minutos",
+      "porciones": "4 personas",
+      "categoria": "Sopas",
+      "imagen": "https://es.cravingsjournal.com/wp-content/uploads/2021/07/sopa-de-polloi-4.jpg"
+    },
+    {
+      "nombre": "Hamburguesa Clásica",
+      "descripcion": "Una jugosa hamburguesa con carne de res, queso y condimentos.🍔",
+      "ingredientes": [
+        {"nombre": "Carne de res molida", "cantidad": "500g"},
+        {"nombre": "Pan para hamburguesa", "cantidad": "4 unidades"},
+        {"nombre": "Queso cheddar", "cantidad": "4 rebanadas"},
+        {"nombre": "Lechuga", "cantidad": "al gusto"},
+        {"nombre": "Tomate", "cantidad": "1, en rodajas"},
+        {"nombre": "Kétchup", "cantidad": "al gusto"}
+      ],
+      "preparacion": [
+        "Formar las hamburguesas con la carne molida y cocinarlas en una parrilla o sartén.",
+        "Colocar el queso sobre las hamburguesas y cocinar hasta que se derrita.",
+        "Montar las hamburguesas en el pan con lechuga, tomate y kétchup."
+      ],
+      "tiempoPreparacion": "5 minutos",
+      "tiempoCoccion": "15 minutos",
+      "porciones": "4 personas",
+      "categoria": "Comida Rápida",
+      "imagen": "https://i.pinimg.com/550x/7f/5a/6c/7f5a6cdf2f90cdf818a1a9924a03c6a7.jpg"
+    },
+    {
+      "nombre": "Tortillas de Patatas",
+      "descripcion": "Tortilla española con papas, cebolla y huevos.🥔",
+      "ingredientes": [
+        {"nombre": "Papas", "cantidad": "3, en rodajas"},
+        {"nombre": "Cebolla", "cantidad": "1, picada"},
+        {"nombre": "Huevos", "cantidad": "6"},
+        {"nombre": "Aceite de oliva", "cantidad": "al gusto"},
+        {"nombre": "Sal", "cantidad": "al gusto"}
+      ],
+      "preparacion": [
+        "Freír las papas y cebolla en aceite hasta que estén tiernas.",
+        "Batir los huevos y añadir las papas y cebolla fritas.",
+        "Cocinar a fuego bajo hasta que se forme una tortilla dorada por ambos lados."
+      ],
+      "tiempoPreparacion": "15 minutos",
+      "tiempoCoccion": "20 minutos",
+      "porciones": "4 personas",
+      "categoria": "Comida Española",
+      "imagen": "https://i.pinimg.com/736x/11/5a/02/115a02e226bbc79abb1b614ad8fa784b.jpg"
+    },
+    {
+      "nombre": "Mole Poblano",
+      "descripcion": "Mole tradicional de Puebla con chocolate y chiles secos.",
+      "ingredientes": [
+        {"nombre": "Pechuga de pollo", "cantidad": "4"},
+        {"nombre": "Chiles secos", "cantidad": "5"},
+        {"nombre": "Chocolate oscuro", "cantidad": "100g"},
+        {"nombre": "Ajo", "cantidad": "2 dientes"},
+        {"nombre": "Caldo de pollo", "cantidad": "2 tazas"},
+        {"nombre": "Aceite", "cantidad": "1 cucharada"}
+      ],
+      "preparacion": [
+        "Freír los chiles secos, luego molerlos junto con el ajo.",
+        "Derretir el chocolate y añadir al caldo de pollo.",
+        "Cocinar todo junto hasta que la salsa espese.",
+        "Servir sobre el pollo."
+      ],
+      "tiempoPreparacion": "10 minutos",
+      "tiempoCoccion": "40 minutos",
+      "porciones": "4 personas",
+      "categoria": "Comida Mexicana",
+      "imagen": "https://img.freepik.com/fotos-premium/mole-poblano-tradicional-arroz-plato_123827-13930.jpg"
+    },
+    {
+      "nombre": "Paella Valenciana",
+      "descripcion": "Plato típico de España con arroz, mariscos y pollo.🥘",
+      "ingredientes": [
+        {"nombre": "Arroz", "cantidad": "1 taza"},
+        {"nombre": "Mariscos", "cantidad": "300g"},
+        {"nombre": "Pollo", "cantidad": "200g"},
+        {"nombre": "Azafrán", "cantidad": "1 pizca"},
+        {"nombre": "Aceite de oliva", "cantidad": "2 cucharadas"},
+        {"nombre": "Caldo de pollo", "cantidad": "2 tazas"}
+      ],
+      "preparacion": [
+        "Cocinar el pollo en el aceite hasta dorarse.",
+        "Añadir el arroz y el caldo con el azafrán.",
+        "Incorporar los mariscos y cocinar hasta que el arroz esté listo."
+      ],
+      "tiempoPreparacion": "10 minutos",
+      "tiempoCoccion": "30 minutos",
+      "porciones": "4 personas",
+      "categoria": "Comida Española",
+      "imagen": "https://i.pinimg.com/736x/82/66/3e/82663e13738a93dffe2cf8adced42778.jpg"
+    },
+    {
+      "nombre": "Pancakes",
+      "descripcion": "Deliciosos pancakes esponjosos, perfectos para el desayuno.🥞",
+      "ingredientes": [
+        {"nombre": "Harina", "cantidad": "1 taza"},
+        {"nombre": "Leche", "cantidad": "1 taza"},
+        {"nombre": "Huevos", "cantidad": "2"},
+        {"nombre": "Polvo de hornear", "cantidad": "1 cucharadita"},
+        {"nombre": "Mantequilla derretida", "cantidad": "2 cucharadas"},
+        {"nombre": "Azúcar", "cantidad": "2 cucharadas"}
+      ],
+      "preparacion": [
+        "Mezclar todos los ingredientes hasta obtener una masa suave.",
+        "Cocinar los pancakes en una sartén a fuego medio hasta que estén dorados."
+      ],
+      "tiempoPreparacion": "10 minutos",
+      "tiempoCoccion": "15 minutos",
+      "porciones": "4 personas",
+      "categoria": "Desayuno",
+      "imagen": "https://i.pinimg.com/736x/9d/61/86/9d61866c5f8b4bc57f9023b4f61d449c.jpg"
+    },
+    {
+      "nombre": "Carlota de Limón",
+      "descripcion": "La Carlota de Limón es un postre frío y cremoso de origen francés, cuya versión mexicana combina limón y galletas María, convirtiéndose en un clásico de la gastronomía del país. 🍋",
+      "ingredientes": [
+        {"nombre": "Leche condensada", "cantidad": "360g"},
+        {"nombre": "Leche evaporada", "cantidad": "300g"},
+        {"nombre": "Jugo de limón colado", "cantidad": "1/4 taza"},
+        {"nombre": "Galletas Marías", "cantidad": "30"},
+        {"nombre": "Limón cortado en rodajas", "cantidad": "1"},
+        {"nombre": "Galletas Marías troceadas", "cantidad": "5"},
+        {"nombre": "Rama de menta desinfectada", "cantidad": "1"},
+        {"nombre": "Limón", "cantidad": "1, (rallado)"}
+      ],
+      "preparacion": [
+        "Licúa la Leche Condensada con la Leche Evaporada y sin dejar de licuar, agrega poco a poco el jugo de limón.",
+        "En un refractario cuadrado, coloca una capa de galletas, un poco de la mezcla de limón y repite hasta terminar con el resto de los ingredientes. Cubre con plástico adherente y refrigera por 1 hora o hasta que esté firme.",
+        "Decora con las rodajas de limón, las galletas troceadas, las hojas de menta y la ralladura de limón."
+      ],
+      "tiempoPreparacion": "20 minutos",
+      "tiempoCoccion": "2-4 horas de refrigeración",
+      "porciones": "8 personas",
+      "categoria": "Postres",
+      "imagen": "https://i.pinimg.com/736x/9a/91/85/9a918503546c6b69dfef638eb2d42cb5.jpg"
+    }
+    
+    
+  ]
+  

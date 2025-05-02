@@ -1,0 +1,32 @@
+[
+    {
+      "id": "basic",
+      "name": "Básico",
+      "price": "$4.99",
+      "period": "mensual",
+      "color": "#3b82f6",
+      "lightColor": "#dbeafe",
+      "benefits": [
+        "Acceso a recetas básicas",
+        "Actualizaciones mensuales limitadas",
+        "Visualización en resolución estándar",
+        "Sin anuncios"
+      ]
+    },
+    {
+      "id": "premium",
+      "name": "Premium",
+      "price": "$9.99",
+      "period": "mensual",
+      "color": "#7c3aed",
+      "lightColor": "#ede9fe",
+      "benefits": [
+        "Acceso a todas las recetas, incluyendo recetas premium",
+        "Actualizaciones nuevas cada 3 días",
+        "Visualización en alta resolución",
+        "Notificaciones de nuevas recetas",
+        "Descarga ilimitada de recetas"
+      ]
+    }
+  ]
+  
