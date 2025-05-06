@@ -9,5 +9,7 @@ export const ENDPOINTS = {
     LOGIN: API_URL + "/users/login",
     REGISTER: API_URL + "/users/registrar",
     RECIPES: API_URL + "/recetas",
-
+    Payment: API_URL + "/payment/checkout-sesion",
+    SuscriptionCancel: API_URL + "/payment/suscription/cancel",
+    UserInfo: API_URL + "/users/info",
 }

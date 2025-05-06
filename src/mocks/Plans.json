@@ -2,8 +2,8 @@
     {
       "id": "basic",
       "name": "Básico",
-      "price": "$4.99",
-      "period": "mensual",
+      "price": "$0",
+      "period": "gratis",
       "color": "#3b82f6",
       "lightColor": "#dbeafe",
       "benefits": [
